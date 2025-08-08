@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: arial;
+  font-family: cursive;
   border-radius: 10px;
 }
 
@@ -106,5 +106,6 @@ footer {
 #whatsapp-chat:hover {
   background-color: #128C7E;
 }
+
 
 
