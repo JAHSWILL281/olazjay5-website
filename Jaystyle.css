@@ -2,14 +2,18 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: poppins;
+  font-family: ;
   border-radius: 10px;
 }
 
 body {
   background-color: cyan;
   color: #333;
-  line-height: 1.6;
+  line-height: 1.6;body {
+  font-family: 'Poppins', sans-serif;
+}
+
+  
 }
 
 header {
@@ -106,6 +110,7 @@ footer {
 #whatsapp-chat:hover {
   background-color: #128C7E;
 }
+
 
 
 
